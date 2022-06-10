@@ -1,3 +1,1 @@
-https://George-Seletski.github.io/rsschool-cv/
-<br>
-https://George-Seletski.github.io/rsschool-cv/cv
+CV_3.github.io
